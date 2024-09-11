@@ -58,7 +58,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:GetRobotAsset TimeoutMS="{x:Null}" AssetName="TestAsset514" DisplayName="Get Asset" sap:VirtualizedContainerService.HintSize="444,138" sap2010:WorkflowViewState.IdRef="GetRobotAsset_1">
+    <ui:GetRobotAsset TimeoutMS="{x:Null}" AssetName="TestAsset515" DisplayName="Get Asset" sap:VirtualizedContainerService.HintSize="444,138" sap2010:WorkflowViewState.IdRef="GetRobotAsset_1">
       <ui:GetRobotAsset.Value>
         <OutArgument x:TypeArguments="x:String">[var1]</OutArgument>
       </ui:GetRobotAsset.Value>
