@@ -19,5 +19,10 @@
   "UiPath.OCR.Activities.UiPathScreenOCR.Endpoint": "https://ocr.uipath.com/",
   "UiPath.OCR.Activities.UiPathScreenOCR.ApiKey": "",
   "UiPath.OCR.Activities.UiPathDocumentOCR.Endpoint": "https://du.uipath.com/ocr",
-  "UiPath.OCR.Activities.UiPathDocumentOCR.ApiKey": ""
+  "UiPath.OCR.Activities.UiPathDocumentOCR.ApiKey": "",
+  "UiPath.UiAutomation.Activities.GoogleCloudOCR.Region": "Global",
+  "UiPath.OCR.Activities.CjkOCR.Endpoint": "https://du.uipath.com/cjk-ocr",
+  "UiPath.OCR.Activities.CjkOCR.ApiKey": "",
+  "UiPath.OCR.Activities.ExtendedLanguagesOCR.Endpoint": "https://du.uipath.com/extended-ocr",
+  "UiPath.OCR.Activities.ExtendedLanguagesOCR.ApiKey": ""
 }
